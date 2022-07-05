@@ -82,7 +82,8 @@ footer{
   }
 
   .box:last-child{
-    margin-right: 30px;
+    margin:auto;
+
   }
 
   footer{
